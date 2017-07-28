@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "421780423096",
+    "firebase_url": "https://kukickers-b9a00.firebaseio.com",
+    "project_id": "kukickers-b9a00",
+    "storage_bucket": "kukickers-b9a00.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:421780423096:android:f1edf354a113d0a2",
+        "android_client_info": {
+          "package_name": "com.kukickers.mainkukickers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "421780423096-a89te07b82rfn43l7ocfdgu0tsp0p4bq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kukickers.mainkukickers",
+            "certificate_hash": "86374bf9d81550a0a068f7277e13bd515bd34b36"
+          }
+        },
+        {
+          "client_id": "421780423096-dij9nn0rjsgnrgihkkm0f7khb9sj3k9q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBA-ZyYZXfmNmlt4TfVFs2N1Zq-DvNyXAk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "421780423096-dij9nn0rjsgnrgihkkm0f7khb9sj3k9q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
